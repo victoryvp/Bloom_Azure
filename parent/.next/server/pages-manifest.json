@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/parent/dashboard": "pages/parent/dashboard.html",
+  "/parent/dashboardCandleStick": "pages/parent/dashboardCandleStick.html",
+  "/parent/dashboardPieChart": "pages/parent/dashboardPieChart.html",
+  "/parent/footer": "pages/parent/footer.html",
+  "/parent/header": "pages/parent/header.html",
+  "/parent/sign-in": "pages/parent/sign-in.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
